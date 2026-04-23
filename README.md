@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes the behavior of gold (XAUUSD) prices using historical market data and machine learning techniques.
 
-## 🎯 Objective
+## Objective
 To predict the direction of the next price movement (bullish or bearish) using engineered features and a classification model.
 
 ## Dataset
